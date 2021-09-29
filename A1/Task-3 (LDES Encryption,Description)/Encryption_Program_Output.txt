@@ -1,0 +1,282 @@
+run:
+K: 00
+Round Key1 : 000
+Round Key2 : 000
+1. Encrypt the below using Key: 00
+=======================================
+Input 4 bits Message(M) : 0000
+
+Cipher Result: 1001
+-------------------------------
+Input 4 bits Message(M) : 0001
+
+Cipher Result: 1000
+-------------------------------
+Input 4 bits Message(M) : 0010
+
+Cipher Result: 0011
+-------------------------------
+Input 4 bits Message(M) : 0011
+
+Cipher Result: 0010
+-------------------------------
+Input 4 bits Message(M) : 0100
+
+Cipher Result: 1100
+-------------------------------
+Input 4 bits Message(M) : 0101
+
+Cipher Result: 1101
+-------------------------------
+Input 4 bits Message(M) : 0110
+
+Cipher Result: 0110
+-------------------------------
+Input 4 bits Message(M) : 0111
+
+Cipher Result: 0111
+-------------------------------
+Input 4 bits Message(M) : 1000
+
+Cipher Result: 0001
+-------------------------------
+Input 4 bits Message(M) : 1001
+
+Cipher Result: 0000
+-------------------------------
+Input 4 bits Message(M) : 1010
+
+Cipher Result: 1011
+-------------------------------
+Input 4 bits Message(M) : 1011
+
+Cipher Result: 1010
+-------------------------------
+Input 4 bits Message(M) : 1100
+
+Cipher Result: 0100
+-------------------------------
+Input 4 bits Message(M) : 1101
+
+Cipher Result: 0101
+-------------------------------
+Input 4 bits Message(M) : 1110
+
+Cipher Result: 1110
+-------------------------------
+Input 4 bits Message(M) : 1111
+
+Cipher Result: 1111
+-------------------------------
+===========================================================================
+K: 01
+Round Key1 : 000
+Round Key2 : 111
+2. Encrypt the below using Key: 01
+=======================================
+Input 4 bits Message(M) : 0000
+
+Cipher Result: 1111
+-------------------------------
+Input 4 bits Message(M) : 0001
+
+Cipher Result: 1110
+-------------------------------
+Input 4 bits Message(M) : 0010
+
+Cipher Result: 0101
+-------------------------------
+Input 4 bits Message(M) : 0011
+
+Cipher Result: 0100
+-------------------------------
+Input 4 bits Message(M) : 0100
+
+Cipher Result: 1010
+-------------------------------
+Input 4 bits Message(M) : 0101
+
+Cipher Result: 1011
+-------------------------------
+Input 4 bits Message(M) : 0110
+
+Cipher Result: 0000
+-------------------------------
+Input 4 bits Message(M) : 0111
+
+Cipher Result: 0001
+-------------------------------
+Input 4 bits Message(M) : 1000
+
+Cipher Result: 0111
+-------------------------------
+Input 4 bits Message(M) : 1001
+
+Cipher Result: 0110
+-------------------------------
+Input 4 bits Message(M) : 1010
+
+Cipher Result: 1101
+-------------------------------
+Input 4 bits Message(M) : 1011
+
+Cipher Result: 1100
+-------------------------------
+Input 4 bits Message(M) : 1100
+
+Cipher Result: 0010
+-------------------------------
+Input 4 bits Message(M) : 1101
+
+Cipher Result: 0011
+-------------------------------
+Input 4 bits Message(M) : 1110
+
+Cipher Result: 1000
+-------------------------------
+Input 4 bits Message(M) : 1111
+
+Cipher Result: 1001
+-------------------------------
+===========================================================================
+K: 10
+Round Key1 : 111
+Round Key2 : 000
+3. Encrypt the below using Key: 10
+=======================================
+Input 4 bits Message(M) : 0000
+
+Cipher Result: 0110
+-------------------------------
+Input 4 bits Message(M) : 0001
+
+Cipher Result: 0111
+-------------------------------
+Input 4 bits Message(M) : 0010
+
+Cipher Result: 1100
+-------------------------------
+Input 4 bits Message(M) : 0011
+
+Cipher Result: 1101
+-------------------------------
+Input 4 bits Message(M) : 0100
+
+Cipher Result: 0011
+-------------------------------
+Input 4 bits Message(M) : 0101
+
+Cipher Result: 0010
+-------------------------------
+Input 4 bits Message(M) : 0110
+
+Cipher Result: 1001
+-------------------------------
+Input 4 bits Message(M) : 0111
+
+Cipher Result: 1000
+-------------------------------
+Input 4 bits Message(M) : 1000
+
+Cipher Result: 1110
+-------------------------------
+Input 4 bits Message(M) : 1001
+
+Cipher Result: 1111
+-------------------------------
+Input 4 bits Message(M) : 1010
+
+Cipher Result: 0100
+-------------------------------
+Input 4 bits Message(M) : 1011
+
+Cipher Result: 0101
+-------------------------------
+Input 4 bits Message(M) : 1100
+
+Cipher Result: 1011
+-------------------------------
+Input 4 bits Message(M) : 1101
+
+Cipher Result: 1010
+-------------------------------
+Input 4 bits Message(M) : 1110
+
+Cipher Result: 0001
+-------------------------------
+Input 4 bits Message(M) : 1111
+
+Cipher Result: 0000
+-------------------------------
+===========================================================================
+K: 11
+Round Key1 : 111
+Round Key2 : 111
+4. Encrypt the below using Key: 11
+=======================================
+Input 4 bits Message(M) : 0000
+
+Cipher Result: 0000
+-------------------------------
+Input 4 bits Message(M) : 0001
+
+Cipher Result: 0001
+-------------------------------
+Input 4 bits Message(M) : 0010
+
+Cipher Result: 1010
+-------------------------------
+Input 4 bits Message(M) : 0011
+
+Cipher Result: 1011
+-------------------------------
+Input 4 bits Message(M) : 0100
+
+Cipher Result: 0101
+-------------------------------
+Input 4 bits Message(M) : 0101
+
+Cipher Result: 0100
+-------------------------------
+Input 4 bits Message(M) : 0110
+
+Cipher Result: 1111
+-------------------------------
+Input 4 bits Message(M) : 0111
+
+Cipher Result: 1110
+-------------------------------
+Input 4 bits Message(M) : 1000
+
+Cipher Result: 1000
+-------------------------------
+Input 4 bits Message(M) : 1001
+
+Cipher Result: 1001
+-------------------------------
+Input 4 bits Message(M) : 1010
+
+Cipher Result: 0010
+-------------------------------
+Input 4 bits Message(M) : 1011
+
+Cipher Result: 0011
+-------------------------------
+Input 4 bits Message(M) : 1100
+
+Cipher Result: 1101
+-------------------------------
+Input 4 bits Message(M) : 1101
+
+Cipher Result: 1100
+-------------------------------
+Input 4 bits Message(M) : 1110
+
+Cipher Result: 0111
+-------------------------------
+Input 4 bits Message(M) : 1111
+
+Cipher Result: 0110
+-------------------------------
+===========================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

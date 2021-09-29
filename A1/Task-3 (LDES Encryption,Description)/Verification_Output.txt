@@ -1,0 +1,210 @@
+run:
+K: 00
+1.Key: 00
+=======================================
+Cipher Result: 1001
+No Verification Found for this Cipher!
+
+Cipher Result: 1000
+No Verification Found for this Cipher!
+
+Cipher Result: 0011
+Verified: 0000^0010^0001 = 0011
+
+Cipher Result: 0010
+No Verification Found for this Cipher!
+
+Cipher Result: 1100
+Verified: 0000^1000^0100 = 1100
+
+Cipher Result: 1101
+Verified: 1000^0100^0001 = 1101
+
+Cipher Result: 0110
+Verified: 0000^0100^0010 = 0110
+
+Cipher Result: 0111
+Verified: 0100^0010^0001 = 0111
+
+Cipher Result: 0001
+No Verification Found for this Cipher!
+
+Cipher Result: 0000
+No Verification Found for this Cipher!
+
+Cipher Result: 1011
+Verified: 1000^0010^0001 = 1011
+
+Cipher Result: 1010
+No Verification Found for this Cipher!
+
+Cipher Result: 0100
+No Verification Found for this Cipher!
+
+Cipher Result: 0101
+Verified: 0000^0100^0001 = 0101
+
+Cipher Result: 1110
+Verified: 1000^0100^0010 = 1110
+
+Cipher Result: 1111
+Verified: 0000^1000^0100^0010^0001 = 1111
+
+===========================================================================
+K: 01
+2.Key: 01
+=======================================
+Cipher Result: 1111
+Verified: 0000^1000^0100^0010^0001 = 1111
+
+Cipher Result: 1110
+Verified: 1000^0100^0010 = 1110
+
+Cipher Result: 0101
+Verified: 0000^0100^0001 = 0101
+
+Cipher Result: 0100
+No Verification Found for this Cipher!
+
+Cipher Result: 1010
+No Verification Found for this Cipher!
+
+Cipher Result: 1011
+Verified: 1000^0010^0001 = 1011
+
+Cipher Result: 0000
+No Verification Found for this Cipher!
+
+Cipher Result: 0001
+No Verification Found for this Cipher!
+
+Cipher Result: 0111
+Verified: 0100^0010^0001 = 0111
+
+Cipher Result: 0110
+Verified: 0000^0100^0010 = 0110
+
+Cipher Result: 1101
+Verified: 1000^0100^0001 = 1101
+
+Cipher Result: 1100
+Verified: 0000^1000^0100 = 1100
+
+Cipher Result: 0010
+No Verification Found for this Cipher!
+
+Cipher Result: 0011
+Verified: 0000^0010^0001 = 0011
+
+Cipher Result: 1000
+No Verification Found for this Cipher!
+
+Cipher Result: 1001
+No Verification Found for this Cipher!
+
+===========================================================================
+K: 10
+3.Key: 10
+=======================================
+Cipher Result: 0110
+Verified: 0000^0100^0010 = 0110
+
+Cipher Result: 0111
+Verified: 0100^0010^0001 = 0111
+
+Cipher Result: 1100
+Verified: 0000^1000^0100 = 1100
+
+Cipher Result: 1101
+Verified: 1000^0100^0001 = 1101
+
+Cipher Result: 0011
+Verified: 0000^0010^0001 = 0011
+
+Cipher Result: 0010
+No Verification Found for this Cipher!
+
+Cipher Result: 1001
+No Verification Found for this Cipher!
+
+Cipher Result: 1000
+No Verification Found for this Cipher!
+
+Cipher Result: 1110
+Verified: 1000^0100^0010 = 1110
+
+Cipher Result: 1111
+Verified: 0000^1000^0100^0010^0001 = 1111
+
+Cipher Result: 0100
+No Verification Found for this Cipher!
+
+Cipher Result: 0101
+Verified: 0000^0100^0001 = 0101
+
+Cipher Result: 1011
+Verified: 1000^0010^0001 = 1011
+
+Cipher Result: 1010
+No Verification Found for this Cipher!
+
+Cipher Result: 0001
+No Verification Found for this Cipher!
+
+Cipher Result: 0000
+No Verification Found for this Cipher!
+
+===========================================================================
+K: 11
+4.Key: 11
+=======================================
+Cipher Result: 0000
+No Verification Found for this Cipher!
+
+Cipher Result: 0001
+No Verification Found for this Cipher!
+
+Cipher Result: 1010
+No Verification Found for this Cipher!
+
+Cipher Result: 1011
+Verified: 1000^0010^0001 = 1011
+
+Cipher Result: 0101
+Verified: 0000^0100^0001 = 0101
+
+Cipher Result: 0100
+No Verification Found for this Cipher!
+
+Cipher Result: 1111
+Verified: 0000^1000^0100^0010^0001 = 1111
+
+Cipher Result: 1110
+Verified: 1000^0100^0010 = 1110
+
+Cipher Result: 1000
+No Verification Found for this Cipher!
+
+Cipher Result: 1001
+No Verification Found for this Cipher!
+
+Cipher Result: 0010
+No Verification Found for this Cipher!
+
+Cipher Result: 0011
+Verified: 0000^0010^0001 = 0011
+
+Cipher Result: 1101
+Verified: 1000^0100^0001 = 1101
+
+Cipher Result: 1100
+Verified: 0000^1000^0100 = 1100
+
+Cipher Result: 0111
+Verified: 0100^0010^0001 = 0111
+
+Cipher Result: 0110
+Verified: 0000^0100^0010 = 0110
+
+===========================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

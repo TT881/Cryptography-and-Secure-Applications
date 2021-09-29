@@ -1,0 +1,74 @@
+run:
+Please the size of the Knapnack: 8
+Pleas enter the Super-Increasing Knapsack: 
+Enter integer a1: 1
+Enter integer a2: 2
+Enter integer a3: 3
+Enter integer a4: 4
+Enter integer a5: 5
+Enter integer a6: 6
+Enter integer a7: 7
+Enter integer a8: 8
+
+Numbers have to be in Super-Increasing Order!
+Eg; Integer 2>Integer 1 ,Integer 3> Integer 2+1
+Please Enter Increasing set again:
+Enter integer a1: 1
+Enter integer a2: 2
+Enter integer a3: 5
+Enter integer a4: 9
+Enter integer a5: 21
+Enter integer a6: 45
+Enter integer a7: 103
+Enter integer a8: 300
+w is : [1, 2, 5, 9, 21, 45, 103, 300]
+wSum is : 486
+
+---------Enter Modulus q, which should be greater than wSum------------
+Modulus q: 490
+Success q is :490
+
+---------Enter Multiplier r, to make gcd(r,q) = 1------------
+Multiplier r: 5
+Fail r is :5
+Please Enter a multiplier that is coprime to the Mod value : 119
+Fail r is :119
+Please Enter a multiplier that is coprime to the Mod value : 199
+Success r is :199
+
+---------Generate Public Key b, b = rw mod q------------
+b is : [199, 398, 15, 321, 259, 135, 407, 410]
+
+Please Enter PlainText: Hello,My name is John
+
+---------Encryption-----------
+Public Key is : [199, 398, 15, 321, 259, 135, 407, 410]
+User inputs contains 21 characters
+Convert Plaintext to 8 bits Binary:01001000
+Convert Plaintext to 8 bits Binary:01100101
+Convert Plaintext to 8 bits Binary:01101100
+Convert Plaintext to 8 bits Binary:01101100
+Convert Plaintext to 8 bits Binary:01101111
+Convert Plaintext to 8 bits Binary:00101100
+Convert Plaintext to 8 bits Binary:01001101
+Convert Plaintext to 8 bits Binary:01111001
+Convert Plaintext to 8 bits Binary:00100000
+Convert Plaintext to 8 bits Binary:01101110
+Convert Plaintext to 8 bits Binary:01100001
+Convert Plaintext to 8 bits Binary:01101101
+Convert Plaintext to 8 bits Binary:01100101
+Convert Plaintext to 8 bits Binary:00100000
+Convert Plaintext to 8 bits Binary:01101001
+Convert Plaintext to 8 bits Binary:01110011
+Convert Plaintext to 8 bits Binary:00100000
+Convert Plaintext to 8 bits Binary:01001010
+Convert Plaintext to 8 bits Binary:01101111
+Convert Plaintext to 8 bits Binary:01101000
+Convert Plaintext to 8 bits Binary:01101110
+Cipher Text is : 657 958 807 807 1624 409 1202 1403 15 1214 823 1217 958 15 1082 1551 15 1064 1624 672 1214
+
+---------Decryption-----------
+RModInverse is : 229
+Private Key is: W = [1, 2, 5, 9, 21, 45, 103, 300]; Q = 490; R = 199
+Plain Text is : Hello,My name is John
+BUILD SUCCESSFUL (total time: 1 minute 1 second)

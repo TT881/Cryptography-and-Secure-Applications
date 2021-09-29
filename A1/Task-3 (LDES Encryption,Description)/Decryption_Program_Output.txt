@@ -1,0 +1,282 @@
+run:
+K: 00
+Round Key1 : 000
+Round Key2 : 000
+1. Decrypt the below Cipher(C) using Key: 00
+=======================================
+4 bits Cipher Message(C) : 0000
+
+Plain-Text Result: 1001
+-------------------------------
+4 bits Cipher Message(C) : 0001
+
+Plain-Text Result: 1000
+-------------------------------
+4 bits Cipher Message(C) : 0010
+
+Plain-Text Result: 0011
+-------------------------------
+4 bits Cipher Message(C) : 0011
+
+Plain-Text Result: 0010
+-------------------------------
+4 bits Cipher Message(C) : 0100
+
+Plain-Text Result: 1100
+-------------------------------
+4 bits Cipher Message(C) : 0101
+
+Plain-Text Result: 1101
+-------------------------------
+4 bits Cipher Message(C) : 0110
+
+Plain-Text Result: 0110
+-------------------------------
+4 bits Cipher Message(C) : 0111
+
+Plain-Text Result: 0111
+-------------------------------
+4 bits Cipher Message(C) : 1000
+
+Plain-Text Result: 0001
+-------------------------------
+4 bits Cipher Message(C) : 1001
+
+Plain-Text Result: 0000
+-------------------------------
+4 bits Cipher Message(C) : 1010
+
+Plain-Text Result: 1011
+-------------------------------
+4 bits Cipher Message(C) : 1011
+
+Plain-Text Result: 1010
+-------------------------------
+4 bits Cipher Message(C) : 1100
+
+Plain-Text Result: 0100
+-------------------------------
+4 bits Cipher Message(C) : 1101
+
+Plain-Text Result: 0101
+-------------------------------
+4 bits Cipher Message(C) : 1110
+
+Plain-Text Result: 1110
+-------------------------------
+4 bits Cipher Message(C) : 1111
+
+Plain-Text Result: 1111
+-------------------------------
+===========================================================================
+K: 01
+Round Key1 : 000
+Round Key2 : 111
+2. Decrypt the below Cipher(C) using Key: 01
+=======================================
+4 bits Cipher Message(C) : 0000
+
+Plain-Text Result: 0110
+-------------------------------
+4 bits Cipher Message(C) : 0001
+
+Plain-Text Result: 0111
+-------------------------------
+4 bits Cipher Message(C) : 0010
+
+Plain-Text Result: 1100
+-------------------------------
+4 bits Cipher Message(C) : 0011
+
+Plain-Text Result: 1101
+-------------------------------
+4 bits Cipher Message(C) : 0100
+
+Plain-Text Result: 0011
+-------------------------------
+4 bits Cipher Message(C) : 0101
+
+Plain-Text Result: 0010
+-------------------------------
+4 bits Cipher Message(C) : 0110
+
+Plain-Text Result: 1001
+-------------------------------
+4 bits Cipher Message(C) : 0111
+
+Plain-Text Result: 1000
+-------------------------------
+4 bits Cipher Message(C) : 1000
+
+Plain-Text Result: 1110
+-------------------------------
+4 bits Cipher Message(C) : 1001
+
+Plain-Text Result: 1111
+-------------------------------
+4 bits Cipher Message(C) : 1010
+
+Plain-Text Result: 0100
+-------------------------------
+4 bits Cipher Message(C) : 1011
+
+Plain-Text Result: 0101
+-------------------------------
+4 bits Cipher Message(C) : 1100
+
+Plain-Text Result: 1011
+-------------------------------
+4 bits Cipher Message(C) : 1101
+
+Plain-Text Result: 1010
+-------------------------------
+4 bits Cipher Message(C) : 1110
+
+Plain-Text Result: 0001
+-------------------------------
+4 bits Cipher Message(C) : 1111
+
+Plain-Text Result: 0000
+-------------------------------
+===========================================================================
+K: 10
+Round Key1 : 111
+Round Key2 : 000
+3. Decrypt the below Cipher(C) using Key: 10
+=======================================
+4 bits Cipher Message(C) : 0000
+
+Plain-Text Result: 1111
+-------------------------------
+4 bits Cipher Message(C) : 0001
+
+Plain-Text Result: 1110
+-------------------------------
+4 bits Cipher Message(C) : 0010
+
+Plain-Text Result: 0101
+-------------------------------
+4 bits Cipher Message(C) : 0011
+
+Plain-Text Result: 0100
+-------------------------------
+4 bits Cipher Message(C) : 0100
+
+Plain-Text Result: 1010
+-------------------------------
+4 bits Cipher Message(C) : 0101
+
+Plain-Text Result: 1011
+-------------------------------
+4 bits Cipher Message(C) : 0110
+
+Plain-Text Result: 0000
+-------------------------------
+4 bits Cipher Message(C) : 0111
+
+Plain-Text Result: 0001
+-------------------------------
+4 bits Cipher Message(C) : 1000
+
+Plain-Text Result: 0111
+-------------------------------
+4 bits Cipher Message(C) : 1001
+
+Plain-Text Result: 0110
+-------------------------------
+4 bits Cipher Message(C) : 1010
+
+Plain-Text Result: 1101
+-------------------------------
+4 bits Cipher Message(C) : 1011
+
+Plain-Text Result: 1100
+-------------------------------
+4 bits Cipher Message(C) : 1100
+
+Plain-Text Result: 0010
+-------------------------------
+4 bits Cipher Message(C) : 1101
+
+Plain-Text Result: 0011
+-------------------------------
+4 bits Cipher Message(C) : 1110
+
+Plain-Text Result: 1000
+-------------------------------
+4 bits Cipher Message(C) : 1111
+
+Plain-Text Result: 1001
+-------------------------------
+===========================================================================
+K: 11
+Round Key1 : 111
+Round Key2 : 111
+4. Decrypt the below Cipher(C) using Key: 11
+=======================================
+4 bits Cipher Message(C) : 0000
+
+Plain-Text Result: 0000
+-------------------------------
+4 bits Cipher Message(C) : 0001
+
+Plain-Text Result: 0001
+-------------------------------
+4 bits Cipher Message(C) : 0010
+
+Plain-Text Result: 1010
+-------------------------------
+4 bits Cipher Message(C) : 0011
+
+Plain-Text Result: 1011
+-------------------------------
+4 bits Cipher Message(C) : 0100
+
+Plain-Text Result: 0101
+-------------------------------
+4 bits Cipher Message(C) : 0101
+
+Plain-Text Result: 0100
+-------------------------------
+4 bits Cipher Message(C) : 0110
+
+Plain-Text Result: 1111
+-------------------------------
+4 bits Cipher Message(C) : 0111
+
+Plain-Text Result: 1110
+-------------------------------
+4 bits Cipher Message(C) : 1000
+
+Plain-Text Result: 1000
+-------------------------------
+4 bits Cipher Message(C) : 1001
+
+Plain-Text Result: 1001
+-------------------------------
+4 bits Cipher Message(C) : 1010
+
+Plain-Text Result: 0010
+-------------------------------
+4 bits Cipher Message(C) : 1011
+
+Plain-Text Result: 0011
+-------------------------------
+4 bits Cipher Message(C) : 1100
+
+Plain-Text Result: 1101
+-------------------------------
+4 bits Cipher Message(C) : 1101
+
+Plain-Text Result: 1100
+-------------------------------
+4 bits Cipher Message(C) : 1110
+
+Plain-Text Result: 0111
+-------------------------------
+4 bits Cipher Message(C) : 1111
+
+Plain-Text Result: 0110
+-------------------------------
+===========================================================================
+BUILD SUCCESSFUL (total time: 0 seconds)

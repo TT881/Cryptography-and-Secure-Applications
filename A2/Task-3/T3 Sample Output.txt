@@ -1,0 +1,16 @@
+run:
+
+Collision Finding of Hash Algorithm: 
+============================================
+Match X:77701
+Nmber of Trials: 158501
+The pair of integers , (x,x') where (x != x') ...
+x:77701
+x'158500
+
+Two messages with Same Hash values: 
+Mr.Yang lee owes Hay Munn 77701 dollars hash values: 68a9e223
+Mr.Yang lee owes Hay Munn 158500 dollars hash values: 68a9e223
+
+Execution time: 2891 miliseconds
+BUILD SUCCESSFUL (total time: 3 seconds)

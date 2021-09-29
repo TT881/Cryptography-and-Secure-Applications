@@ -1,0 +1,21 @@
+run:
+Please Enter base a : 7
+Please Enter Exponent b : 490
+Please Enter Modulus p :15
+Covert 490 into Binary : 111101010
+SSX Replacement: [SX, SX, SX, SX, S, SX, S, SX, S]
+Removed 1st SX: [SX, SX, SX, S, SX, S, SX, S]
+
+Compute according to the S SX sequence
+========================================
+SX: 13
+SX: 13
+SX: 13
+S: 4
+SX: 7
+S: 4
+SX: 7
+S: 4
+
+7^490 % 15 = 4
+BUILD SUCCESSFUL (total time: 6 seconds)

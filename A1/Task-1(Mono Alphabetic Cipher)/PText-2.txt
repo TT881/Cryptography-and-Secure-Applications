@@ -1,0 +1,8 @@
+possible in the early stages of a design we favor the most aggressive
+decomposition possible which in this case defines one task for each grid
+point each task maintains as its state the various values associated with
+its grid point and is responsible for the computation required to update
+that state functional decomposition also has an important role to play
+as a program structuring technique a functional decomposition that
+partitions not only the computation that is to be performed but also the
+code that performs that computation is likely to reduce the complexity of

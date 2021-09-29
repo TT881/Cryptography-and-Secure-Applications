@@ -1,0 +1,159 @@
+run:
+
+====================================================
+Kindly select the below options (1/2/3/4) : 
+====================================================
+1. Key generation
+2. Encryption
+3. Decryption
+4. Quit
+
+Enter Option No: 1
+Please Enter (32 bits-length)prime no p: 3
+3 is a probably prime.
+But It is Only 2 bits in length.
+eg; 32 bit-length Prime No = 3594625387 
+Please Enter(32 bits-length)prime no p again: 3594625387
+3594625387 is a probably prime.
+It is 32 bits in length.
+
+
+Please Enter(32 bits-length)prime no q: 3
+3 is a probably prime.
+But It is Only 2 bits in length.
+eg; 32 bit-length Prime No = 2492377357 
+Please Enter (32 bits-length)prime no q: 2492377357 
+2492377357 is a probably prime.
+It is 32 bits in length.
+
+Compute Modulus n (pxq) : 8959162921456162159
+Phi(n): (p-1)*(q-1) = 8959162915369159416
+
+e(Public-Key): 887538727434224717
+GCD of (e,phi(n)): 887538727434224717 and 8959162915369159416 is 1
+
+d(Private-Key): 4326711934360977269
+Public-Key(N,e) was successfully write to "pk.txt" file ...
+Public Key:( 8959162921456162159,887538727434224717 )
+Private-Key(N,p,q,d) was successfully write to "sk.txt" file ...
+Private Key:( 8959162921456162159,3594625387,2492377357,4326711934360977269 )
+
+====================================================
+Kindly select the below options (1/2/3/4) : 
+====================================================
+1. Key generation
+2. Encryption
+3. Decryption
+4. Quit
+
+Enter Option No: 2
+Read user message from "mssg.text" file. 
+Read Public-Key from "pk.text" file. 
+========Encryption Process================
+Check Public Key : 887538727434224717
+Check Mod N: 8959162921456162159
+User Message to Encrypt: 129191028100
+"cipher.txt" File successfully created ....... 
+Encrypted Message : 8389014281638986425
+
+====================================================
+Kindly select the below options (1/2/3/4) : 
+====================================================
+1. Key generation
+2. Encryption
+3. Decryption
+4. Quit
+
+Enter Option No: 3
+Please Enter "cipher.txt" file to get Private-Key and Decrypt: cipher.txt
+Read Cipher-Text from cipher.txt file. 
+========Decryption Process================
+Check Private Key : 4326711934360977269
+Check Mod N: 8959162921456162159
+Check Encrypted Message: 8389014281638986425
+Decrypted Message: 129191028100
+
+====================================================
+Kindly select the below options (1/2/3/4) : 
+====================================================
+1. Key generation
+2. Encryption
+3. Decryption
+4. Quit
+
+Enter Option No: 1
+Please Enter (32 bits-length)prime no p: 3
+3 is a probably prime.
+But It is Only 2 bits in length.
+eg; 32 bit-length Prime No = 3594625387 
+Please Enter(32 bits-length)prime no p again: 3594625391
+3594625391 is a probably prime.
+It is 32 bits in length.
+
+Please Enter(32 bits-length)prime no q: 
+2
+2 is a probably prime.
+But It is Only 2 bits in length.
+eg; 32 bit-length Prime No = 2492377357 
+Please Enter (32 bits-length)prime no q: 2492377311
+2492377311 is a probably prime.
+It is 32 bits in length.
+
+Compute Modulus n (pxq) : 8959162766072903601
+Phi(n): (p-1)*(q-1) = 8959162759985900900
+e(Public-Key): 1554368950701348991
+GCD of (e,phi(n)): 1554368950701348991 and 8959162759985900900 is 1
+
+d(Private-Key): 2303794120844243611
+Public-Key(N,e) was successfully write to "pk.txt" file ...
+Public Key:( 8959162766072903601,1554368950701348991 )
+Private-Key(N,p,q,d) was successfully write to "sk.txt" file ...
+Private Key:( 8959162766072903601,3594625391,2492377311,2303794120844243611 )
+
+====================================================
+Kindly select the below options (1/2/3/4) : 
+====================================================
+1. Key generation
+2. Encryption
+3. Decryption
+4. Quit
+
+Enter Option No: 2
+Read user message from "mssg.text" file. 
+Read Public-Key from "pk.text" file. 
+========Encryption Process================
+Check Public Key : 1554368950701348991
+Check Mod N: 8959162766072903601
+User Message to Encrypt: 129191028100
+"cipher.txt" File successfully created ....... 
+Encrypted Message : 8507920044660864367
+
+====================================================
+Kindly select the below options (1/2/3/4) : 
+====================================================
+1. Key generation
+2. Encryption
+3. Decryption
+4. Quit
+
+Enter Option No: 3
+Please Enter "cipher.txt" file to Decrypt the Message: cipher.txt
+Read Cipher-Text from cipher.txt file. 
+========Decryption Process================
+Check Private Key : 2303794120844243611
+Check Mod N: 8959162766072903601
+Check Encrypted Message: 8507920044660864367
+Decrypted Message: 712075144842306694
+
+====================================================
+Kindly select the below options (1/2/3/4) : 
+====================================================
+1. Key generation
+2. Encryption
+3. Decryption
+4. Quit
+
+Enter Option No: 4
+
+Exit Program......
+BUILD SUCCESSFUL (total time: 1 minute 35 seconds)

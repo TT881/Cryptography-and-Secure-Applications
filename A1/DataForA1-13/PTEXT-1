@@ -1,0 +1,8 @@
+the same data structures in this case we treat each phase separately and
+then determine how the decompositions and parallel algorithms developed
+for each phase fit together the issues that arise in this situation are
+discussed in chapter figure illustrates domain decomposition in a simple
+problem involving a three dimensional grid  this grid could represent
+the state of the atmosphere in a weather model or a three dimensional
+space in an image processing problem computation is performed repeatedly
+on each grid point decompositions in the x y and or z dimensions are
